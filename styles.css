@@ -22,8 +22,8 @@ p {
 }
 
 article p {
-  font-size: 35px;
-  padding: 20px;
+  font-size: 20px;
+  padding: 10px;
 }
 
 .container {
@@ -151,11 +151,11 @@ button.learnMore {
   
 
 div.leftSide-col {
-  margin-left: 30%;
+  margin-left: 15%;
 }
 
 div.rightSide-col {
-  margin-left: 15%;
+  margin-left: 10%;
 }
 
 h1.large {
@@ -241,7 +241,7 @@ footer.footsy ul li {
   font-size: 50px;
 }
   article p {
-    font-size: 25px;
+    font-size: 16px;
   }
   
   .col-7,
